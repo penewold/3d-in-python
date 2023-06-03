@@ -22,15 +22,6 @@ def cos(angle):
     return ra
 
 
-dot1pos = np.array([1, 1, -1])
-dot2pos = np.array([1, -1, -1])
-dot3pos = np.array([1, -1, 1])
-dot4pos = np.array([1, 1, 1])
-dot5pos = np.array([-1, 1, -1])
-dot6pos = np.array([-1, -1, -1])
-dot7pos = np.array([-1, -1, 1])
-dot8pos = np.array([-1, 1, 1])
-
 dots = [np.array([1, 1, -1]), np.array([1, -1, -1]), np.array([1, -1, 1]), np.array([1, 1, 1]), np.array([-1, 1, -1]), np.array([-1, -1, -1]), np.array([-1, -1, 1]), np.array([-1, 1, 1])]
 
 
